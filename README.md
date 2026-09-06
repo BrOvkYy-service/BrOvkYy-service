@@ -41,13 +41,7 @@ BBBB   R   R   OOO     V    K  K    Y
 </div>
 <br>
 
-### 📈 Stockholder & Investor
-
-> **Fundamental & Technical Analysis · DCF Valuation · Stock Screening · Risk Management · Portfolio Diversification**
-
-**Tools:** unfurnished
-
-**Methods:** DCF · P/E · P/S · P/B · EV/EBITDA · RSI · Moving Averages
+### 
 <!--
 BBBB   RRRR    OOO   V   V  K  K  Y   Y  
 B   B  R   R  O   O  V   V  K K    Y Y    
