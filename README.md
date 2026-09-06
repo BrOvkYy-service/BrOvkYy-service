@@ -4,6 +4,13 @@
 <h2 align="left">Skills</h2>
 
 ### 
+<!--
+BBBB   RRRR    OOO   V   V  K  K  Y   Y  
+B   B  R   R  O   O  V   V  K K    Y Y    
+BBBB   RRRR   O   O  V   V  KK      Y      
+B   B  R  R   O   O   V V   K K     Y      
+BBBB   R   R   OOO     V    K  K    Y      
+-->
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
@@ -41,6 +48,13 @@
 **Tools:** unfurnished
 
 **Methods:** DCF · P/E · P/S · P/B · EV/EBITDA · RSI · Moving Averages
+<!--
+BBBB   RRRR    OOO   V   V  K  K  Y   Y  
+B   B  R   R  O   O  V   V  K K    Y Y    
+BBBB   RRRR   O   O  V   V  KK      Y      
+B   B  R  R   O   O   V V   K K     Y      
+BBBB   R   R   OOO     V    K  K    Y      
+-->
 
 
 
