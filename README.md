@@ -37,7 +37,7 @@ BBBB   R   R   OOO     V    K  K    Y
 <div data-importer="languages" align="left">
   <img src="https://img.shields.io/badge/Slovak-100%25-000000?style=for-the-badge" alt="Slovak 100%" />
   <img src="https://img.shields.io/badge/English-89%25-000000?style=for-the-badge" alt="English 89%" />
-  <img src="https://img.shields.io/badge/Hungarian-42%25-000000?style=for-the-badge" alt="Hungarian 32%" />
+  <img src="https://img.shields.io/badge/Hungarian-32%25-000000?style=for-the-badge" alt="Hungarian 32%" />
 </div>
 <br>
 
